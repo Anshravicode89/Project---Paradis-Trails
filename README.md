@@ -13,6 +13,8 @@ Bootstrap for a sleek and responsive design
 Mapbox for interactive maps
 Error handling for a seamless user experience
 Other awesome libraries and tools!
+
+
 Key Features
 Listings: Create, edit, and delete your listings.
 Reviews: Leave reviews for your favourite destinations.
